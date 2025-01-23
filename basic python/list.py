@@ -1,6 +1,6 @@
 #list:[] ordered and changeable.duplecated.ok
-  
-          #example:1
+
+        #example:1
 #number=[1,2,3,4,5,6,7,8]
 #for x in (number):
 #    print(x,end=" ")

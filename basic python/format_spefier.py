@@ -14,7 +14,7 @@ print(f"print z: {z:010}")
 # :< = left justify(space from right)
 print(f"print x: {x:<10}")
 # :> = right justify(space form left)
-print(f"print x: {x:>10}")
+print(f"print x: {x:>30}")
 # :^ = center align
 print(f"print x: {x:^10}")
 # :+ = use a plus sign to indicate positive value
