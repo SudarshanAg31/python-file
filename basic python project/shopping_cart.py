@@ -6,7 +6,7 @@ while True:
     if(food=="q"):
         break
     else:
-        price=int(input(f"enter price of {food}:"))
+        price=float(input(f"enter price of {food}:"))
         food_item.append(food)
         food_price.append(price)
 print("------shopping cart------")

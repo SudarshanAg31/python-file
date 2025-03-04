@@ -25,7 +25,7 @@ list=[i*i for i in numbers if i>0]
 list_ve=[i*i for i in numbers if i<0]
 print(list)
 print(list_ve)
-#example 4
+#example 5
 grade=[85,34,65,23,89,98,11,1,0,45,76]
 result=[ i for i in grade if i>=33]
 print(result)

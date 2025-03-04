@@ -9,15 +9,15 @@
         #example:2[string]
 string=["apple","banana","orange","coconat"]
 
-#print(len(string))     #for length of string
+#print(len(string))             #for length of string
 
 #print("pineapple" in string)   # it return true and false:- (answer is false)
 
-#string[0]="barry"      #replace string of 0 index
+#string[0]="barry"               replace string of 0 index
 
 #string.append("pineapple")     # add string to list 
 
-#string.remove("apple")        #remove string form list
+#string.remove("apple")         #remove string form list
 
 #print(string.count("apple"))   #it count same string in list
 
@@ -25,11 +25,11 @@ string=["apple","banana","orange","coconat"]
 
 #string.insert(2,"pineapple")   #insert string at index 0
 
-#string.sort()  #it sort list form a to z 
+#string.sort()                  #it sort list form a to z 
 
-#string.reverse()       #it reversed string form z to a
+#string.reverse()               #it reversed string form z to a
 
-#string.clear() #it remove all string form list
+#string.clear()                 #it remove all string form list
 
 for x in (string):
     print(x)
